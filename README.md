@@ -12,7 +12,7 @@
             </span>
         </h1>
         <p>
-            Self-taught full stack developer and systems administrator. C# is my love language. <a href="https://github.com/LBPUnion">@LBPUnion</a> and others.
+            Self-taught full stack developer and systems administrator. C# is my love language. <a href="https://github.com/GlobalEAS">@GlobalEAS</a> and others.
         </p>
     </div>
     <div>
